@@ -1,7 +1,7 @@
 name: Deploy Vulnerable Application                                  # workflow name
 
 on:  
-   push:
+   
    
 jobs:
   deploy-heroku:
